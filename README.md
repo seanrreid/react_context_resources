@@ -9,3 +9,5 @@
 * Blogged Answers: React, Redux, and Context Behavior <br/> https://blog.isquaredsoftware.com/2020/01/blogged-answers-react-redux-and-context-behavior/
 * React vs the Context API <br/>https://daveceddia.com/context-api-vs-redux/ <br/>
     > "The problem with Redux: Why import multiple dependencies into React and write tons of boilerplate in order to get React to do what it can already do natively? Why keep a global store for your entire application when much of its content is only used by few components?"
+* How to use React Context effectively <br />
+https://kentcdodds.com/blog/how-to-use-react-context-effectively
